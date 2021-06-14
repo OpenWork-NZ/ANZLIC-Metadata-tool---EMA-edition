@@ -13,7 +13,7 @@ When creating metadata for services, it is recommended that one metadata record 
 * One Service type entry **Must** be populated in a service metadata record.
     * The value of this field _Should_ be populated with a selection from the provided "Recommended values" dropdown.
     * If necessary, other values can be entered as free text.
-### Service Type Version** - _Provides search based on the value of the service type_
+### Service Type Version - _Provides search based on the value of the service type_
 * **ICSM Guidance** - https://icsm-au.github.io/metadata-working-group/defs/ServiceTypeVersion
 * One or more service type versions _Should_ be provided if useful to allow discovery and use of resources based on the version of the service provided.
 ### Coupling Type - _Documents the relation of the service to associated data_ 
