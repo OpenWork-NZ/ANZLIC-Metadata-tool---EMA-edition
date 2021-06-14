@@ -15,7 +15,7 @@ This tool can be used in two ways -
     
 1. Advanced search
     * To the left of the "Search for contact" field, click the spyglass icon ![Spyglass icon](images/spyglass.png) to display the advanced search interface. ![Advanced contact search](images/contactSearch.png)
-    > NOTE: Do not use the  ![Add section](images/addSection.png) icon. A bug in GeoNetwork requires its presence while not allowing it to function properly. If a row to the table is added with this method, only the _Role_ element will present. As usual, this row can be removed by clicking the red "X" to the right of the row.
+    > NOTE: Do not use the  ![Add section](images/AddSection.png) icon. A bug in GeoNetwork requires its presence while not allowing it to function properly. If a row to the table is added with this method, only the _Role_ element will present. As usual, this row can be removed by clicking the red "X" to the right of the row.
     * **Narrowing your search -** Searches can be narrowed in two ways
         * Using the "Search for contact" field, at the top of the popup as you would in Simple search
         * Using the _Facets_ in the left sidebar, select the category appropriate to the party ![Facet contact search](images/contactSearchFacet.png)
