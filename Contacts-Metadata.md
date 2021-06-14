@@ -12,17 +12,18 @@ This tool can be used in two ways -
     * In the "Search for contact" field, type the first few letters of the desired party.
     * To the right of the desired entry select the appropriate role for the party by clicking either the ![Chain link icon](images/linkSelector.png) or  ![Add icon](images/addSelector.png). 
     * A new entry will appear in the table.
+    
 1. Advanced search
     * To the left of the "Search for contact" field, click the spyglass icon ![Spyglass icon](images/spyglass.png) to display the advanced search interface. ![Advanced contact search](images/contactSearch.png)
+    > NOTE: Do not use the  ![Add section](images/addSection.png) icon. A bug in GeoNetwork requires its presence while not allowing it to function properly. If a row to the table is added with this method, only the _Role_ element will present. As usual, this row can be removed by clicking the red "X" to the right of the row.
     * **Narrowing your search -** Searches can be narrowed in two ways
         * Using the "Search for contact" field, at the top of the popup as you would in Simple search
-        * Using the _Facets_ in the left sidebar, select the category appropriate to the party 
+        * Using the _Facets_ in the left sidebar, select the category appropriate to the party ![Facet contact search](images/contactSearchFacet.png)
     * Select the desired contact from the results
     * Two ways to populate the metadata record with the chosen contact
-        1. Select the appropriate role for your chosen contact by clicking on the "Choose role" button in the lower left of the window and click the ![Add icon](/images/add.png) icon.
+        1. Select the appropriate role for your chosen contact by clicking on the "Choose role" button in the lower left of the window and click the ![Add icon](/images/contactSearchRole.png) icon.
         1. Click the spyglass icon ![spyglass](/images/spyglass.png), also in the lower left, and select a role from the dropdown menu
     * A new entry will appear in the table.
-    > NOTE: Do not use the "+" icon. A bug in GeoNetwork requires its presence while not allowing it to function properly. If a row to the table is added with this method, only the _Role_ element will present. As usual, this row can be removed by clicking the red "X" to the right of the row.
 
 **When the party is not found**
 If a party is not available via search, do the following:
