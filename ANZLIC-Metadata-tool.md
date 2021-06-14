@@ -1,5 +1,35 @@
 ANZLIC Metadata tool - Editor  
 # Introduction
+## Help 
+- General Tap - [General tab](./General-Metadata.md)
+  - [General information](./General-Metadata.md#general-information)
+  - [Maintenance Information](./General-Metadata.md#maintenance-information)
+  - [Key Dates](./General-Metadata.md#key-dates)
+  - [Resource Identification](./General-Metadata.md#resource-identification)
+- [Service Tab](./Service-Metadata.md)
+  - [Service](./Service-Metadata.md#service)
+  - [Contains Operation](./Service-Metadata.md#contains-operation)
+- [Contacts Tab](./Contacts-Metadata.md)
+  - [Using the Search for contact tool](./Contacts-Metadata.md#using-the-search-for-contact-tool)
+  - [Resource Contacts](./Contacts-Metadata.md#resource-contacts)
+  - [Metadata Contacts](./Contacts-Metadata.md#metadata-contacts)
+- [Lineage Tab](./Linage-Metadata.md)
+  - [Resource Lineage](./Linage-Metadata.md#resource-lineage)
+- [Keyword Tab](./Keyword-Metadata.md)
+  - [Using the Keyword Thesaurus tool](./Contacts-Metadata.md#using-the-search-for-contact-tool)
+  - [Keywords](./Keyword-Metadata.md#keywords)
+- [Spatial Tab](./Spatial-Metadata.md)
+  - [Extents](./Spatial-Metadata.md#extents)
+  - [Resolution](./Spatial-Metadata.md#resolution)
+  - [Reference system](./Spatial-Metadata.md#reference-system)
+- [Constraints Tab](./Constraints-Metadata.md)
+  - [Using the Constraints selection tool](./Constraints-Metadata.md#using-the-constraints-selection-tool)
+  - [Resource constraints](./Constraints-Metadata.md#resource-constraints)
+  - [Metadata constraints](./Constraints-Metadata.md#metadata-constraints)
+- [Thumbnails & Distributions panel](./Thumbnails-and-Distributions-Metadata.md)
+  - [Link to an online resource](./Thumbnails-and-Distributions-Metadata.md#link-to-an-online-resource)
+  - [Link to a service / dataset](./Thumbnails-and-Distributions-Metadata.md#link-to-a-service--dataset)
+
 ## Overview
 ### Background 
 1. Purpose - ICSM and EMCINA
