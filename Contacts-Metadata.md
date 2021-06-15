@@ -36,6 +36,7 @@ If a party is not available via search, do the following:
 > NOTE: Your administrator will provide guidance about whether to use the either the ![Chain link icon](images/linkSelector.png) or ![Add icon](images/addSelector.png) icon when adding contacts.
 
 ## Resource Contacts
+
 ### Point of Contact
 _Contact information for those who provide a first point of contact related to the resource_ 
 * **ICSM Guidance** - https://icsm-au.github.io/metadata-working-group/defs/ResourcePointOfContact
@@ -50,6 +51,7 @@ _Name and position information for an individual or organisation that is respons
     * Use the **Search for contact** tool guidance provided above
 
 ## Metadata Contacts
+
 ### Contact
 _Contact information for those parties that hold responsibilities related to the metadata record and its maintenance_ 
 >NOTE: Not to be used for resource contact information
