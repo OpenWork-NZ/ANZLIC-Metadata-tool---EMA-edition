@@ -38,7 +38,8 @@ _Main theme(s) of the dataset, selected from an official ISO list_
     * Add entries by clicking in the field and selecting values from the dropdown list. 
     * Remove any unneeded entries by selecting the "x" next to its name.
 
-### Status - _The lifecycle state of a resource. Selected from a progress code codelist_
+### Status
+_The lifecycle state of a resource. Selected from a progress code codelist_
 * **ICSM Guidance** - https://icsm-au.github.io/metadata-working-group/defs/Status
 * Select the most appropriate value from the provided dropdown selection, if any.
 
