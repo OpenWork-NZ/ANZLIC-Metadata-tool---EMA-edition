@@ -37,7 +37,7 @@ This tool allows keywords to be selected from a thesauri maintained by your admi
         * **CAP-AU Compliance** - the nature of CAP compliance of the resource
     * For **Service** metadata additional keywords include:
         * **ISO19119 Service Type** - **Must** be populated with at least one value from the provided thesaurus.
-        * **Service Keyword** - Suggested keywords for the platform or standard describing the service.
+        * **Protocol Type** - Suggested keywords for the software, platform and/or standard describing the service.
 * **Descriptive keywords** (and Keyword Help) ![Descriptive keywords](/image/descriptiveKeywords.png) 
     >NOTE: Keyword help (this page) can be accessed through the Tooltip available [here](https://github.com/OpenWork-NZ/mdwg/wiki/Keyword-Metadata#using-the-keyword-thesaurus-tool).
     * Options:
