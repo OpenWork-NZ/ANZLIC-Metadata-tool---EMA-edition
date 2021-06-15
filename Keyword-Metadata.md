@@ -33,7 +33,7 @@ This tool allows keywords to be selected from a thesauri maintained by your admi
         * **Continents, countries, sea regions of the world.** - an international list of locations 
             * Is a hierarchal thesaurus
             * This thesaurus may not be suited to the local context. Consult your administrator_
-        * **Dataset Method** - _Dataset only_ - Four options _Modelled, Observed, Modelled and Observed, and other_
+        * **Process type** - _Dataset only_ - Four options _Modelled, Observed, Modelled and Observed, and other_
         * **CAP-AU Compliance** - the nature of CAP compliance of the resource
     * For **Service** metadata additional keywords include:
         * **ISO19119 Service Type** - **Must** be populated with at least one value from the provided thesaurus.
