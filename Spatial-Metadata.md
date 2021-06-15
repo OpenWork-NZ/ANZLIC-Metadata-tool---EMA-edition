@@ -5,11 +5,13 @@ The Spatial page consist of three separate sections.
 * **Reference System** - Holds information about the standardised parameters used to store location information.
 
 ## Extents
+
 ### Description
 _Written explanation of the spatial and temporal extents of the resource_
 * **ICSM Guidance** - https://icsm-au.github.io/metadata-working-group/defs/ExtentGeographicDescription
 * Optional field to be used when verbal descriptions help explain the extents of a resource.
     * When no text is present, clicking the boxed "+" under _Description_ exposes a text box to populate.
+
 ### Geographic bounding box
 _Four values which define a box containing the resource area of relevance_
 * **ICSM Guidance** - https://icsm-au.github.io/metadata-working-group/defs/ExtentBoundingBox
@@ -23,6 +25,7 @@ _Four values which define a box containing the resource area of relevance_
     >NOTE: If multiple, polygonal or other extents are needed, expert users can do so in the **Advanced** metadata editing interface.
 
 ## Resolution
+
 ### Equivalent scale
 _Level of detail expressed as the scale of a comparable hardcopy map or chart_
 * **ICSM Guidance** - https://icsm-au.github.io/metadata-working-group/defs/SpatialResolution
@@ -31,6 +34,7 @@ _Level of detail expressed as the scale of a comparable hardcopy map or chart_
     * Values can be adjusted or entered free form in the _Denominator_ box.
 
 ## Reference system
+
 ### Reference System Information
 _Displays a table of reference systems applicable to the resource_
 * **ICSM Guidance** - https://icsm-au.github.io/metadata-working-group/defs/SpatialReferenceSystem.html
