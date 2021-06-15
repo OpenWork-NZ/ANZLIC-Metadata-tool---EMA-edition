@@ -19,6 +19,7 @@ Both Security and Legal constraints can be sourced using this tool.
 
 
 ## Resource constraints
+
 ### Use limitation
 _Holds general constraint information such as "Not to be used for navigation"_
 * **ICSM Guidance** - https://icsm-au.github.io/metadata-working-group/defs/ResourceOtherConstraints.html
