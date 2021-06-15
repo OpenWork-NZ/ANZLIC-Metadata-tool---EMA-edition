@@ -1,4 +1,4 @@
-# Contacts
+# Contacts Tab
 
 This tab is used to capture:
 * **Resource Contacts** - Information about parties that have some responsibility to the resource described in the metadata.
@@ -36,19 +36,22 @@ If a party is not available via search, do the following:
 > NOTE: Your administrator will provide guidance about whether to use the either the ![Chain link icon](images/linkSelector.png) or ![Add icon](images/addSelector.png) icon when adding contacts.
 
 ## Resource Contacts
-### Point of Contact - _Contact information for those who provide a first point of contact related to the resource_ 
+### Point of Contact
+_Contact information for those who provide a first point of contact related to the resource_ 
 * **ICSM Guidance** - https://icsm-au.github.io/metadata-working-group/defs/ResourcePointOfContact
 * **Custodian** and a **Owner** contact information **Must** be provided. Other points of contact may be added
     * Use the **Search for contact** tool guidance provided above
 
-### Responsible party - _Name and position information for an individual or organisation that is responsible for the resource_
+### Responsible party
+_Name and position information for an individual or organisation that is responsible for the resource_
 * **ICSM Guidance** - https://icsm-au.github.io/metadata-working-group/defs/ResourceResponsibleParty
 * Additional contacts ay be provided for parties that hold particular roles related to the resource. Any number may be added.
     * Responsible party contacts may be the same as parties cited in _Point of contact_ or _Metadata Contacts_
     * Use the **Search for contact** tool guidance provided above
 
 ## Metadata Contacts
-### Contact - _Contact information for those parties that hold responsibilities related to the metadata record and its maintenance_ 
+### Contact
+_Contact information for those parties that hold responsibilities related to the metadata record and its maintenance_ 
 >NOTE: Not to be used for resource contact information
 * **ICSM Guidance** - https://icsm-au.github.io/metadata-working-group/defs/MetadataContact
 * Using the **Search for contact** tool guidance provided above, populate this table as many times as needed (one entry is common). 
