@@ -1,4 +1,4 @@
-# Keyword Tab
+# Keywords Tab
 Keywords are the important ideas and topics that summarise and define what your resource is about. In most search engines, these are indexed and typically normalised to resemble the base word in order to capture variations. Keywords are useful in discovering and organising resources.
 
 To be most useful to these purposes it is important that keywords used in metadata be consistent in spelling and definition. This is best done through the use of well managed controlled vocabularies. GeoNetwork supports the use of controlled vocabularies stored in internal **Thesauri**. The ANZLIC Metadata tool makes heavy use of these vocabularies and is designed to encourage their use whenever possible. These keyword vocabularies are managed by your metadata administrator and sourced from external authoritative sources in alignment with other experts across the domain.
@@ -26,7 +26,7 @@ This tool allows keywords to be selected from a thesauri maintained by your admi
         * In the upper right, the "Previous" button ![Previous concepts](/image/previousConcepts.png) displays a selectable list of previously viewed concepts
 
 ## Keywords
-* **ICSM Guidance** - https://icsm-au.github.io/metadata-working-group/defs/Keywords.html
+* **[ICSM Guidance](https://icsm-au.github.io/metadata-working-group/defs/Keywords.html)** - https://icsm-au.github.io/metadata-working-group/defs/Keywords.html
 * Each template metadata record provides a selection of thesauri from which keywords _Should_ be selected.
     * For **Dataset** and *Service** metadata these include:
         * **Hazard type** - a list of common emergency management hazard types

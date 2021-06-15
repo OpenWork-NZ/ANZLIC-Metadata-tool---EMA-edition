@@ -4,6 +4,8 @@ After completing the tabs, the next step is to link the metadata to representati
 
 ![Thumbnails & Distributions](images/thumbsDists.png)
 
+* The ![Question mark](images/Question.png) icon brings you to this page.
+
 ## Link to an online resource
 The **Link to an online service"* button presents a tool with two useful options to make your metadata more useful:
 * **Add a distribution** - provides links for accessing the described resource
@@ -16,7 +18,7 @@ Selecting the **Add a distribution** radio button presents a simple interface wi
 >NOTE: The link is only checked for structure. It does not check if the link resolves to a valid endpoint. 
 * **Resource name** - This field holds the name that the resource is known by at the endpoint provided
 * **Description** - Additional information related to the distribution _Should be entered here.
-![Link ready to add](images/LinkDistroActive.png)
+![Link ready to add](images/LinkDistroValid.png)
 
 Once the **Add Link** is selected, the metadata will be& disstrobutionsappended to include this distribution. The distribution will now also appear in the **Thumbnails & Distributions** panel.
 
@@ -38,7 +40,24 @@ Selecting the **Add a thumbnail** radio button presents a new interface. Three s
     * Click this button to load your thumbnail images
 
 ## Link to a service / dataset 
-Link to a service (if dataset metadata) or Link to a dataset (if service metadata)
+A **Link to a service** (if editing dataset metadata) or **Link to a dataset** (if editing service metadata) button will present itself in the upper right of the **Thumbnails & Distributions** window.
+
+Clicking this button will present a window whereby exixting metadata records can be linked.
+
+* **Link to a service** presents a list of service metadata from your catalogue to which you can link a dataset metadata record
+[Link to a service](./images/LinkToService.png)
+    * Select the related service metadata record
+    * Click **Add the following link to the dataset (as an online source in the distribution section):** checkbox to include the service in the distrubtions metadata for this resource
+    * Click the green **Link to a service** button in the lower left to complete this process
+    >NOTE: This dataset metadata will now appear in the reference service metadata record as a **Coupled Resource**
+
+* **Link to a dataset** presents a list of service metadata from your catalogue to which you can link a service metadata record
+[Link to a dataset](./images/LinkToDataset.png)
+	* Select the related dataset metadata record
+	* Click **Add the following link to the dataset (as an online source in the distribution section):** checkbox to include the service in the distrubtions metadata for this resource
+	* Click the green **Link to a service** button in the lower left to complete this process
+	>NOTE: This dataset metadata will now appear in the reference service metadata record as a **Coupled Resource**
+
 
 
 
