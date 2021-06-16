@@ -1,4 +1,5 @@
 # Service Tab 
+![Service tab screenshot](/images/tabService.png)
 
 >Note: Only visible when editing Service Metadata records
 
