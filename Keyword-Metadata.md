@@ -16,7 +16,7 @@ This tool allows keywords to be selected from a thesauri maintained by your admi
 * If multiple keywords are needed from a thesaurus click on the _Search Keywords ..._ entry field again and select another keyword. It will appear in the same box
 * To remove a selected keyword, click on the "x" to the right of it.
 * **Hierarchical Thesauri**
-    * **Thesaurus** will label a select box if the controlled vocabulary has hierarchy and will contain the thesaurus name to expose options ![Thesaurus](/image/thesaurusTaxon.png)
+    * **Thesaurus** will label a select box if the controlled vocabulary has hierarchy and will contain the thesaurus name to expose options ![Thesaurus](/images/thesaurusTaxon.png)
     * **Navigating a Thesaurus**
         * Clicking the circled "+" ![Add Keyword](/images/keywordAdd.png) adds the keyword to the metadata
         * Clicking on the concept text expands the concept
