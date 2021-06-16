@@ -1,4 +1,6 @@
 # Lineage Tab
+![Lineage tab screenshot](/images/tabLineage.png)
+
 Lineage is where information about resource provenance - the sources and methods used to create the resource - is captured.
 This page has one section **Resource Lineage**
 
