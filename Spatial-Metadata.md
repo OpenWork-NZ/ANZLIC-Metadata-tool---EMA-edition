@@ -16,7 +16,7 @@ _Written explanation of the spatial and temporal extents of the resource_
 _Four values which define a box containing the resource area of relevance_
 * **[ICSM Guidance](https://icsm-au.github.io/metadata-working-group/defs/ExtentBoundingBox)** - https://icsm-au.github.io/metadata-working-group/defs/ExtentBoundingBox
 * Geographic extents may be populated via two mechanisms
-    * **Choose a region** - provides a search box against a selected source and displays this on the map. ![Choose a region](/image/chooseRegion.png)
+    * **Choose a region** - provides a search box against a selected source and displays this on the map. ![Choose a region](/images/chooseRegion.png)
     >NOTE: the geonames option is slow but comprehensive. The other reference internal files and are much quicker.
     * The map may be directly edited by 
         * Entering and adjusting coordinate values
@@ -44,6 +44,6 @@ _Displays a table of reference systems applicable to the resource_
 * Appropriate additional references systems **Must** be added
     * Use the _Search for a reference system_ dialogue to select from a prepopulated list of applicable CRS
         * Search using the dropdown or
-        * The extended search available by clicking the spyglass icon ![spygalss](/image/spyglass.png)
+        * The extended search available by clicking the spyglass icon ![spyglass](/images/spyglass.png)
     * Additional CRS values may be added using the **Advanced** interface.
     * Add as many or few CRS as needed to describe the resource.
