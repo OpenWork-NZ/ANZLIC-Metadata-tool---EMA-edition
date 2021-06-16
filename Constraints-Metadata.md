@@ -1,4 +1,6 @@
 # Constraints Tab
+![Constraints tab screenshot](/images/tabConstraints.png)
+
 This page holds information about constraints that may apply to the resource or the metadata record itself.
 These constraints may be of a legal, security of other nature.
 
