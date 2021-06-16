@@ -9,11 +9,11 @@ This document covers issues that are beyond the role of a basic metadata editor.
 ## Advanced Editing of Metadata
 
 ### _Advanced_ Editor interface
-At several points in the User Guide, the editor is instructed to contact their administrator to advise on use of the "Advanced" editor interface.  ![Interface selector](images/EditorSelector.png)
+At several points in the User Guide, the editor is instructed to contact their administrator to advise on use of the "Advanced" editor interface.  ![Interface selector](./images/EditorSelector.png)
 
 >NOTE: The **Advanced** editor is structurally identical to the GeoNetwork **Full** save for minor changes to a few widgits. 
 
-![Advanced editor](images/AdvancedEditor.png)
+![Advanced editor](./images/AdvancedEditor.png)
 
 ### More _View Selector_ options
 The other _View selector_ options work as described in [GeoNetwork Documentation](https://geonetwork-opensource.org/manuals/trunk/en/user-guide/describing-information/editing-metadata.html?highlight=editor#navigating-the-form)
@@ -38,9 +38,9 @@ Additional specific **ANZLIC Metadata tool** management task include the managem
 
 ### Managed Directories
 
-**Managed directories** hold categories of metadata fragment entries. These are used to ease the population on metadata records through special interfaces. Some additional adminstrative management of these special resources is necessary. This interface can be accessed via the **Manage directory** option under the **Contribute** menu available in the top toolbar on the main screen. ![Manage directory access](images/ManagedDirectoryAccess.png).
+**Managed directories** hold categories of metadata fragment entries. These are used to ease the population on metadata records through special interfaces. Some additional adminstrative management of these special resources is necessary. This interface can be accessed via the **Manage directory** option under the **Contribute** menu available in the top toolbar on the main screen. ![Manage directory access](./images/ManagedDirectoryAccess.png).
 
-The launches the **Manage directory** window ![Manage directory](images/ManagedDirectory.png).
+The launches the **Manage directory** window ![Manage directory](./images/ManagedDirectory.png).
 
 GeoNetwork opensource provides guidance on the use of [**Managed directories here](https://geonetwork-opensource.org/manuals/trunk/en/administrator-guide/managing-classification-systems/managing-directories.html?highlight=managed%20directories#managing-directories)
 
@@ -68,7 +68,7 @@ The prorovided EMA template metadata records, which provide the framework for al
 
 General guidance for managing thesuri can be found at this [GeoNetwork help page](https://geonetwork-opensource.org/manuals/3.10.x/en/administrator-guide/managing-classification-systems/managing-thesaurus.html).
 
-Administrators can access the thesaurus management tools by selecting **Classification systems** from the **Admin console** menu availble from the  top toolbar on the main screen. ![Thesaurus access](images/ThesaurusMgnAccess.png).
+Administrators can access the thesaurus management tools by selecting **Classification systems** from the **Admin console** menu availble from the  top toolbar on the main screen. ![Thesaurus access](./images/ThesaurusMgnAccess.png).
 
 At the completion of the instalation following the provided instructions, there are five thesauri loaded to support the  **ANZLIC Metadata tool**. These include
 
