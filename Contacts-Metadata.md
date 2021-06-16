@@ -1,4 +1,5 @@
 # Contacts Tab
+![Contacts tab screenshot](/images/tabContacts.png)
 
 This tab is used to capture:
 * **Resource Contacts** - Information about parties that have some responsibility to the resource described in the metadata.
