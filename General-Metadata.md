@@ -1,4 +1,6 @@
 # General Tab
+![General tab screenshot](/images/tabGeneral.png)
+
 The General tab holds most of the most common metadata for a resource. It consist of the following sections:
 * **General Information**
 * **Maintenance Information** 
