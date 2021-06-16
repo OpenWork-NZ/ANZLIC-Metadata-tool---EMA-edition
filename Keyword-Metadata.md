@@ -18,12 +18,12 @@ This tool allows keywords to be selected from a thesauri maintained by your admi
 * **Hierarchical Thesauri**
     * **Thesaurus** will label a select box if the controlled vocabulary has hierarchy and will contain the thesaurus name to expose options ![Thesaurus](/image/thesaurusTaxon.png)
     * **Navigating a Thesaurus**
-        * Clicking the circled "+" ![Add Keyword](/image/keywordAdd.png) adds the keyword to the metadata
+        * Clicking the circled "+" ![Add Keyword](/images/keywordAdd.png) adds the keyword to the metadata
         * Clicking on the concept text expands the concept
             * _Except for "Current concept" which will add this keyword to the metadata_
         * Clicking the _Parent concept_ text (if present) brings you to the that concept
-        * In the upper right, the "Display top concepts" button ![Top concept](/image/topConcept.png) returns the select to the top concept of the hierarchy
-        * In the upper right, the "Previous" button ![Previous concepts](/image/previousConcepts.png) displays a selectable list of previously viewed concepts
+        * In the upper right, the "Display top concepts" button ![Top concept](/images/topConcept.png) returns the select to the top concept of the hierarchy
+        * In the upper right, the "Previous" button ![Previous concepts](/images/previousConcepts.png) displays a selectable list of previously viewed concepts
 
 ## Keywords
 * **[ICSM Guidance](https://icsm-au.github.io/metadata-working-group/defs/Keywords.html)** - https://icsm-au.github.io/metadata-working-group/defs/Keywords.html
@@ -38,7 +38,7 @@ This tool allows keywords to be selected from a thesauri maintained by your admi
     * For **Service** metadata additional keywords include:
         * **ISO19119 Service Type** - **Must** be populated with at least one value from the provided thesaurus.
         * **Protocol Type** - Suggested keywords for the software, platform and/or standard describing the service.
-* **Descriptive keywords** (and Keyword Help) ![Descriptive keywords](/image/descriptiveKeywords.png) 
+* **Descriptive keywords** (and Keyword Help) ![Descriptive keywords](/images/descriptiveKeywords.png) 
     >NOTE: Keyword help (this page) can be accessed through the Tooltip available [here](https://github.com/OpenWork-NZ/mdwg/wiki/Keyword-Metadata#using-the-keyword-thesaurus-tool).
     * Options:
         * **Choose keywords from thesaurus** - provides a list of available thesauri. Selected thesaurus will be added to the page for further selection.
