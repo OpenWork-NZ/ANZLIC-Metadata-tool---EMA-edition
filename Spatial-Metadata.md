@@ -1,4 +1,6 @@
 # Spatial Tab
+![Spatial tab screenshot](/images/tabSpatial.png)
+
 The Spatial page consist of three separate sections.
 * **Extents** - Used for discovery purposes. Holds common term description of the the area of earth to which the resource pertains. 
 * **Resolution** - Provides a guide to the spatial scale at which the resource is meant to be used.
