@@ -1,10 +1,10 @@
 # User Guide - Creating Metadata
 ## Help contents
-- [Getting Started](./ANZLIC-Metadata-Tool---User-Guide---Creating-Metadata.md#getting-started---sign-in-and-select-a-template)
-- [Navigating the Editor](ANZLIC-Metadata-Tool---User-Guide---Creating-Metadata.md#navigating-the-editing-window)
-  - [Tabs](./ANZLIC-Metadata-Tool---User-Guide---Creating-Metadata.md#tabs)
-  - [Sidebar](./ANZLIC-Metadata-Tool---User-Guide---Creating-Metadata.md#sidebar)
-  - [Tools and Notation](./ANZLIC-Metadata-Tool---User-Guide---Creating-Metadata.md#tools-and-notation)
+- [Getting Started](./README.md#getting-started---sign-in-and-select-a-template)
+- [Navigating the Editor](README.md#navigating-the-editing-window)
+  - [Tabs](./README.md#tabs)
+  - [Sidebar](./README.md#sidebar)
+  - [Tools and Notation](./README.md#tools-and-notation)
 - [General tab](./General-Metadata.md)
   - [General information](./General-Metadata.md#general-information)
     - [Title](./General-Metadata.md#title---the-name-by-which-the-cited-resource-is-known)
@@ -77,7 +77,7 @@
     1. Cancel
     1. Save & close
     1. Save metadata
-    1. View options 
+    1. View selector 
         1. (insert screenshot)
         1. Advanced
         1. XML
