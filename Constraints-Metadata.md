@@ -3,7 +3,7 @@ This page holds information about constraints that may apply to the resource or 
 These constraints may be of a legal, security of other nature.
 
 ## Using the _Constraints selection_ tool
-The **Constraints Selection** tool allows constraints to be selected from a a managed directory maintained by your administrator. This improves consistency, searchability, correctness and eases population of constraint information. This is useful for both legal and security constraints which commonly have precise meanings. ![Basic constraints selection tool](/image/constraintsToolBasic.png)
+The **Constraints Selection** tool allows constraints to be selected from a a managed directory maintained by your administrator. This improves consistency, searchability, correctness and eases population of constraint information. This is useful for both legal and security constraints which commonly have precise meanings. ![Basic constraints selection tool](/images/constraintsToolBasic.png)
 
 This tool is applied to both Resource and Metadata constraints.
 Both Security and Legal constraints can be sourced using this tool.
@@ -13,7 +13,7 @@ Both Security and Legal constraints can be sourced using this tool.
         >NOTE: Do not create Legal or Security constraints using the "+" icon
     * Legal and Security constraints can be selected using the searchable dropdown available by clicking the _Search by constraint statement ..._ field
 * Advanced usage
-    * Click on the spyglass icon ![spyglass](/image/spyglass.png) 
+    * Click on the spyglass icon ![spyglass](/images/spyglass.png) 
     * Results may be restricted to either Legal or Security constraints by selecting the appropriate _Subtemplatetype_
     * Select the desired constraint and click the "+" icon in the lower left.
 
