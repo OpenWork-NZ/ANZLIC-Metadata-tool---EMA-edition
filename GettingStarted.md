@@ -20,16 +20,15 @@
 Completion of **Step Two**  opens a new metadata record in the **ICSM** edit view.
 ![ICSM editor](./images/tabGeneral.png)
 To start editing a metadata record, work through the tabs from left to right. Click on the tab name for further glance.
-  1. [General](,/General-Metadata.html) - General information about the resource 
-  1. [Service](./Service-Metadata.html) - Special metadata related to services. *Visible for service metadata only.*
-  1. [Contacts](./Contacts-Metadata.html) - Information about relevant parties to the resource or metadata
-  1. [ Linage](./Linage-Metadata.html) - Background and provenance information about the resource
-  1. [Keywords](./Keyword-Metadata.html)- Specific search terms by which the resource may be discovered
-  1. [Spatial](./Spatial-Metadata.html) - Includes metadata describing the resource location, reference systems used, and intended scale or resolution
-  1. [Constraints](./Constraints-Metadata.html) - The legal, security and other restrictions that may apply to the resource
-  
-Editing of a metadata recocord is completed in the sidebar **Thumbnails & Distributions** panel.
-See [Thumbnails & Distribution](./Thumbnails-and-Distributions-Metadata.html) for guidance.
+1. [**General**](,/General-Metadata.md) - General information about the resource 
+1. [**Service**](./Service-Metadata.md) - Special metadata related to services. *Visible for service metadata only.*
+1. [**Contacts**](./Contacts-Metadata.md) - Information about relevant parties to the resource or metadata
+1. [ **Linage**](./Linage-Metadata.md) - Background and provenance information about the resource
+1. [**Keywords**](./Keyword-Metadata.md)- Specific search terms by which the resource may be discovered
+1. [**Spatial**](./Spatial-Metadata.md) - Includes metadata describing the resource location, reference systems used, and intended scale or resolution
+1. [**Constraints**](./Constraints-Metadata.md) - The legal, security and other restrictions that may apply to the resource
+1. Editing of a metadata recocord is completed in the sidebar **Thumbnails & Distributions** panel.
+  * See [**Thumbnails & Distribution**](./Thumbnails-and-Distributions-Metadata.md) for guidance.
 
 ### Step Four - Validate and Save 
 1. Click **Save Metadata** in the editor top menu.
@@ -54,7 +53,7 @@ Follow GeoNetwork guidance
 * Your adminstrator or reviewer will do this
 
 **Workflow**
-To notify your reviewer that the metadata is ready for review and publishing, in the **Metadata view** for a selected record, select **Submit for review. ![Submit for review](./images/EditorMngRecord.png)
+To notify your reviewer that the metadata is ready for review and publishing, in the **Metadata view** for a selected record, select **Submit for review**. ![Submit for review](./images/EditorMngRecord.png)
 
 >NOTE: You may need first to **Enable workflow** by selecting that option under the same menu. ![Enable workflow](./images/EnableWorkflow.png)
 
@@ -69,6 +68,7 @@ This help document can be accessed in two ways:
 >NOTE: **Tooltips** mst be enabled in the **View selector**for this behaviour.
     
 [**GeoNetwork help**](https://geonetwork-opensource.org/manuals/trunk/en/index.html) is available at https://geonetwork-opensource.org/manuals/trunk/en/index.html.
+
 [**ICSM Best Practice**](https://geonetwork-opensource.org/manuals/trunk/en/index.html) guide for ISO19115-3 metadata is available at https://geonetwork-opensource.org/manuals/trunk/en/index.html
 
 # Navigating the Editing Window
