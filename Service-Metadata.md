@@ -53,7 +53,7 @@ _Address for connecting to the described service interface_
 * **[ICSM Guidance](https://icsm-au.github.io/metadata-working-group/defs/ContainsOperations.html)** - https://icsm-au.github.io/metadata-working-group/defs/ContainsOperations.html
 * Consist of the following fields:
     * **URL** - The address of the service endpoint **Must** be entered here.
-    * **Protocol** - The protocol of the service _Should_be populated using the dropdown to the right of this field.
+    * **Protocol** - The protocol of the service _Should_ be populated using the dropdown to the right of this field.
         * Free text entry maybe used if the appropriate protocol is not in the list.
     * **Function** - A value _Should_ be selected from the dropdown that aligns with the service purpose.
 * If additional connect points are needed for a service, the _Connect point_ "+" button will allow additional entries.
