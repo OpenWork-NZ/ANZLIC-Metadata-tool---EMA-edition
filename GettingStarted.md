@@ -19,7 +19,7 @@
 ### Step Three - Edit Metadata Record
 Completion of **Step Two**  opens a new metadata record in the **ICSM** edit view.
 ![ICSM editor](./images/tabGeneral.png)
-To start editing a metadata record, work through the tabs from left to right. Click on the tab name more further glance.
+To start editing a metadata record, work through the tabs from left to right. Click on the tab name for further glance.
   1. [General](,/General-Metadata.html) - General information about the resource 
   1. [Service](./Service-Metadata.html) - Special metadata related to services. *Visible for service metadata only.*
   1. [Contacts](./Contacts-Metadata.html) - Information about relevant parties to the resource or metadata
