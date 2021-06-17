@@ -60,7 +60,7 @@ To notify your reviewer that the metadata is ready for review and publishing, in
 
 >NOTE: You may need first to **Enable workflow** by selecting that option under the same menu. ![Enable workflow](./images/EnableWorkflow.png)
 
-A interface appears where you can add details to your review request. ![Submit for review](./images/Subission.png)]
+A interface appears where you can add details to your review request. ![Submit for review](./images/Submission.png)]
 
 The reviewers for your group will be notified that your metadata is ready to be reviewed and published.
 
