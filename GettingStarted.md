@@ -17,7 +17,7 @@
 1. Clinking the green **Create** button in the forth column will launch your new metadata record in the _ANZLIC Editor_ window.
 
 ### Step Three - Edit Metadata Record
-Completion of **Step Twp**  opens a new metadata record in the **ICSM** edit view.
+Completion of **Step Two**  opens a new metadata record in the **ICSM** edit view.
 ![ICSM editor](./images/tabGeneral.png)
 To start editing a metadata record, work through the tabs from left to right. Click on the tab name more further guance.
   1. [General](,/General-Metadata.html) - General information about the resource 
@@ -66,7 +66,7 @@ The reviewers for your group will be notified that your metadata is ready to be 
   This help document can be accessed in two ways:
   1. Select the **Need Help?* button at the bottom a side panel to open a directory of help pages in a new window,
   1. Clicking on most entry tools in the Edirot interface will provide a brief statement about the usage of that entry and a **Help** link to more information.
-    >NOTE: **Tooltips** mst be enabled in the **View selector**for this behaviour.
+    >NOTE: **Tooltips** must be enabled in the **View selector**for this behaviour.
     [**GeoNetwork help**](https://geonetwork-opensource.org/manuals/trunk/en/index.html) is available at https://geonetwork-opensource.org/manuals/trunk/en/index.html.
     [**ICSM Best Practice**](https://geonetwork-opensource.org/manuals/trunk/en/index.html) guide for ISO19115-3 metadata is available at https://geonetwork-opensource.org/manuals/trunk/en/index.html
 
