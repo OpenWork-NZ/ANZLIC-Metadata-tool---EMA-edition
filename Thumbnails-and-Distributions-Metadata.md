@@ -7,7 +7,7 @@ After completing the tabs, the next step is to link the metadata to representati
 * The ![Question mark](images/Question.png) icon brings you to this page.
 
 ## Link to an online resource
-The **Link to an online service"* button presents a tool with two useful options to make your metadata more useful:
+The **Link to an online service** button presents a tool with two useful options to make your metadata more useful:
 * **Add a distribution** - provides links for accessing the described resource
 * **Add a thumbnail** - provides methods for including representational images to be included with your metadata
 
