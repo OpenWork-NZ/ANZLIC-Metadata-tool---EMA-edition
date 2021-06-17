@@ -40,7 +40,7 @@ Follow GeoNetwork guidance
 
 ### Step 4a - Assign Category (Optional)
 1. Click the **Categories** button in the editor top menu.
-1. A list of of categories from which one _Should_ choose that braodly categorises the the resource. 
+1. A list of of categories from which one _Should_ choose that broadly categorises the the resource. 
 >NOTE: This is a GeoNetwork provided list that helps with the management of metadata records. The values are stored separately to the ISO19115-3 metadata record.
 
 ### Step 4b - Group (Optional)
