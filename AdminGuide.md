@@ -30,6 +30,14 @@ While the **ANZLIC Metadata tool** does not mandate metadata workflows, it is re
 
 Best practice is that metadata editors do not publish their own metadata. Metadata should be reviewed and published by someone with the role of _Reviewer_ or higher.  ENSEMA has committed to implementing this pattern. 
 
+A Reviewer can publish a metadata record by viewing that record and selecting the **Publish** in the **View** top tool bar.
+![Manage Record](./images/ManageRecord.png)
+
+Futher refinement of permissions can be managed by select the **Privileges** option on the same menu to launch this dialogue:
+![Privileges](./images/Privileges.png)
+
+Enabling GeoNetwork workflows may help with the management of this process.
+
 GeoNetwork provides guidance on implementing [Life cycle workflow here](https://geonetwork-opensource.org/manuals/trunk/en/user-guide/workflow/life-cycle.html).
 
 ## System Management
