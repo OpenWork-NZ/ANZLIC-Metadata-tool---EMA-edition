@@ -67,14 +67,15 @@
 
 ## Getting Started - Sign in and Select a template
 1. To edit metadata using the ANZLIC Metadata Tool, you will first need a user account with sufficient permission. If you do not have one, ask your administrator for help
-1. Sign in by clicking "Sign in" in the toolbar and entering your credentials. (image)
+1. Sign in by clicking "Sign in" in the toolbar and entering your credentials. ![Sign in menu](/images/SignIn.png)
 1. Under the "Contribute" option in the toolbar and select "Add new record."
-1. (insert screenshot)
+1. ![Contribute > Add New screenshot](/images/AddNew.png) 
 1. Describe process - how to find your template
 1. Assign Group (and possibly ID)
 1. Start editing - Opens in ICSM view
 ## Navigating the Editing Window
-1. (insert screenshot)
+![ANZLIC Editor screenshot](/images/editing-view.png)
+
 1. Describe header buttons (to be used after metadata is complete). Look to GN general help
     1. Categories
     1. Group
@@ -83,13 +84,14 @@
     1. Save & close
     1. Save metadata
     1. View selector 
-        1. (insert screenshot)
+        1. ![Editing view selector](/images/editing-view-options.png)
         1. Advanced
         1. XML
         1. More details (leave unchecked)
         1. Tooltips (make sure is checked to access inline help)
 ### Tabs 
-(insert image)
+![Editing view tabs](/images/editing-tabs.png)
+
 1. General - General information about the resource
 1. Service - Special metadata related to services
 1. Contacts - Information about relevant parties to the resource or metadata
