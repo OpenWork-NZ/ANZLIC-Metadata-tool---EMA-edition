@@ -19,7 +19,7 @@
 ### Step Three - Edit Metadata Record
 Completion of **Step Two**  opens a new metadata record in the **ICSM** edit view.
 ![ICSM editor](./images/tabGeneral.png)
-To start editing a metadata record, work through the tabs from left to right. Click on the tab name more further guance.
+To start editing a metadata record, work through the tabs from left to right. Click on the tab name more further glance.
   1. [General](,/General-Metadata.html) - General information about the resource 
   1. [Service](./Service-Metadata.html) - Special metadata related to services. *Visible for service metadata only.*
   1. [Contacts](./Contacts-Metadata.html) - Information about relevant parties to the resource or metadata
@@ -65,7 +65,7 @@ The reviewers for your group will be notified that your metadata is ready to be 
 ## Getting Help
   This help document can be accessed in two ways:
   1. Select the **Need Help?* button at the bottom a side panel to open a directory of help pages in a new window,
-  1. Clicking on most entry tools in the Edirot interface will provide a brief statement about the usage of that entry and a **Help** link to more information.
+  1. Clicking on most entry tools in the Editor interface will provide a brief statement about the usage of that entry and a **Help** link to more information.
     >NOTE: **Tooltips** must be enabled in the **View selector**for this behaviour.
     [**GeoNetwork help**](https://geonetwork-opensource.org/manuals/trunk/en/index.html) is available at https://geonetwork-opensource.org/manuals/trunk/en/index.html.
     [**ICSM Best Practice**](https://geonetwork-opensource.org/manuals/trunk/en/index.html) guide for ISO19115-3 metadata is available at https://geonetwork-opensource.org/manuals/trunk/en/index.html
