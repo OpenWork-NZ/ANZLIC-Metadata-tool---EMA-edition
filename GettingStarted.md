@@ -63,12 +63,13 @@ A interface appears where you can add details to your review request. ![Submit f
 The reviewers for your group will be notified that your metadata is ready to be reviewed and published.
 
 ## Getting Help
-  This help document can be accessed in two ways:
-  1. Select the **Need Help?* button at the bottom a side panel to open a directory of help pages in a new window,
-  1. Clicking on most entry tools in the Editor interface will provide a brief statement about the usage of that entry and a **Help** link to more information.
-    >NOTE: **Tooltips** must be enabled in the **View selector**for this behaviour.
-    [**GeoNetwork help**](https://geonetwork-opensource.org/manuals/trunk/en/index.html) is available at https://geonetwork-opensource.org/manuals/trunk/en/index.html.
-    [**ICSM Best Practice**](https://geonetwork-opensource.org/manuals/trunk/en/index.html) guide for ISO19115-3 metadata is available at https://geonetwork-opensource.org/manuals/trunk/en/index.html
+This help document can be accessed in two ways:
+1. Select the **Need Help?* button at the bottom a side panel to open a directory of help pages in a new window,
+1. Clicking on most entry tools in the Edirot interface will provide a brief statement about the usage of that entry and a **Help** link to more information.
+>NOTE: **Tooltips** mst be enabled in the **View selector**for this behaviour.
+    
+[**GeoNetwork help**](https://geonetwork-opensource.org/manuals/trunk/en/index.html) is available at https://geonetwork-opensource.org/manuals/trunk/en/index.html.
+[**ICSM Best Practice**](https://geonetwork-opensource.org/manuals/trunk/en/index.html) guide for ISO19115-3 metadata is available at https://geonetwork-opensource.org/manuals/trunk/en/index.html
 
 # Navigating the Editing Window
 ![ANZLIC Editor screenshot](/images/editing-view.png)
@@ -80,13 +81,14 @@ The ANZLIC editing window can be desrcribed as habing four main components:
 1. Sidebar
 
 The top toolbar buttons are to be used after metadata is complete. These include:
-    1. Categories
-    1. Group
-    1. Validate
-    1. Cancel
-    1. Save & close
-    1. Save metadata
-    1. View selector (eye icon)
+1. Categories
+1. Group
+1. Validate
+1. Cancel
+1. Save & close
+1. Save metadata
+1. View selector (eye icon)
+
 The use of these buttons is described in [**Getting Started**](#getting-started).
 
 ## The View selector
@@ -98,10 +100,10 @@ The use of these buttons is described in [**Getting Started**](#getting-started)
 * **Tooltips** - This checkbox **Must** be checked to access inline help.
 
 ## Tools and Notation 
-###General Guidance
 
+### General Guidance
 * **Mandatory elements** are marked by a red asterisk ![Mandatory item](./images/mandatory.png)
-* **Adding elements** or sections can be done with the "+" button ![Add](./images/addSection.png)
+* **Adding elements** or sections can be done with the "+" button ![Add](./images/AddSection.png)
 * **Deleting items** - if a red X ![Delete](./images/redDelete.png) appears to the right of a line, this element may be deleted by clicking the red X
     * _Also applies to sections when allowed_
  ### Edditor Data Entry   
@@ -111,7 +113,7 @@ Multiple entry types exist in the editor. These include:
 * **Recomendations text field** - Free text with suggested entry values from codelistv![Recomendations](./images/recValues.png)
 * **Dropdown selector** - to choose a single item from a enumeration or codelist
 * **Mutiselector** - to choose a mutilple items from a enumeration or codelist ![multiselect](./images/multiselect.png)
-   **Date selector** - to choose dates and times. Appearance may vary depending on your browser. ![Date select](./images/dateselect.png)
+   **Date selector** - to choose dates and times. Appearance may vary depending on your browser. ![Date select](./images/dateSelect.png)
 
 ### Custom Data Entry
 A small number of customised interfaces have been provided. These are managed Help for these tools is available via the help pages.
@@ -126,7 +128,7 @@ Useful for longer more complex metadata and small screens where visibility of al
 * ![Toggle](./images/toggle.png) Collapsing and expanding sections is accomplished by clicking the caret at the left of the section name. 
 * ![Double caret](./images/doubleCaret.png) Located in the upper left is a double caret in a blue circle. Clicking this collapses and expands all sections on a page.
 * ![Single caret](images/singleCaret.png) The single caret in the blue circle on the lower left brings you to the top of the page.
-* ![Hamburger](./images/hamburger.png) Also on the lower left is a hamburger menu button in a blue circle. This exposes or hides the sidebar navigator. This consists of a list of all expandable sections in a page. Clicking a section in this sidebar takes one to that section. !{Navigation sidebar](./images/navMenu.png}
+* ![Hamburger](./images/hamburger.png) Also on the lower left is a hamburger menu button in a blue circle. This exposes or hides the sidebar navigator. This consists of a list of all expandable sections in a page. Clicking a section in this sidebar takes one to that section. ![Navigation sidebar](./images/navMenu.png}
 
 
 
