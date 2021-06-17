@@ -15,23 +15,19 @@
 1. Clinking the green **Create** button in the forth column will launch your new metadata record in the _ANZLIC Editor_ window.
 
 ## Step Three - Edit Metadata Record
-Opens in ICSM view
-1. Work through the tabs from left to right
-(insert image)
-  1. General - General information about the resource
-  1. Service - Special metadata related to services
-  1. Contacts - Information about relevant parties to the resource or metadata
-  1. Linage - Background and provenance information about the resource
-  1. Keywords - Specific search terms by which the resource may be discovered
-  1. Spatial - Includes metadata describing the resource location, reference systems used, and intended scale or resolution
-  1. Constraints - The legal, security and other restrictions that may apply to the resource
+Completion of **Step Twp**  opens a new metadata record in the **ICSM** edit view.
+![ICSM editor](./images/tabGeneral.png)
+To start editing a metadata record, work through the tabs from left to right. Click on the tab name more further guance.
+  1. [General](,/General-Metadata.html) - General information about the resource 
+  1. [Service](./Service-Metadata.html) - Special metadata related to services. *Visible for service metadata only.*
+  1. [Contacts](./Contacts-Metadata.html) - Information about relevant parties to the resource or metadata
+  1.[ Linage](./Linage-Metadata.html) - Background and provenance information about the resource
+  1. [Keywords](./Keyword-Metadata.html)- Specific search terms by which the resource may be discovered
+  1. [Spatial](./Spatial-Metadata.html) - Includes metadata describing the resource location, reference systems used, and intended scale or resolution
+  1. [Constraints](./Constraints-Metadata.html) - The legal, security and other restrictions that may apply to the resource
   
-Sidebar
-* **Thumbnails & Distributions**
-1. Link to an online resource
-  1. Add a distribution
-  1. Add a thumbnail
-1. Link to a service or Link to a dataset if service metadata record
+Editing of a metadata recocord is completed in the sidebar **Thumbnails & Distributions** panel.
+See [Thumbnails & Distribution](./Thumbnails-and-Distributions-Metadata.html) for guidance.
 
 ## Step Four - Validate and Save 
 1. Click **Save Metadata** in the editor top menu.
