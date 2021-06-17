@@ -21,7 +21,7 @@ To start editing a metadata record, work through the tabs from left to right. Cl
   1. [General](,/General-Metadata.html) - General information about the resource 
   1. [Service](./Service-Metadata.html) - Special metadata related to services. *Visible for service metadata only.*
   1. [Contacts](./Contacts-Metadata.html) - Information about relevant parties to the resource or metadata
-  1.[ Linage](./Linage-Metadata.html) - Background and provenance information about the resource
+  1. [ Linage](./Linage-Metadata.html) - Background and provenance information about the resource
   1. [Keywords](./Keyword-Metadata.html)- Specific search terms by which the resource may be discovered
   1. [Spatial](./Spatial-Metadata.html) - Includes metadata describing the resource location, reference systems used, and intended scale or resolution
   1. [Constraints](./Constraints-Metadata.html) - The legal, security and other restrictions that may apply to the resource
