@@ -1,10 +1,14 @@
 # User Guide - Creating Metadata
-## Help contents
+## Getting Started
 - [Getting Started](./GettingStarted.md)
+  - [Steps by Step editing](./GettingStarted.md#steps)
+  - [Help](GettingStarted.md)#getting-help)
 - [Navigating the Editor](GettingStarted.md#navigating-the-editing-window)
   - [Tabs](./GettingStarted.md#tabs)
   - [Sidebar](./GettingStarted.md#sidebar)
   - [Tools and Notation](./GettingStarted.md#tools-and-notation)
+  
+  ## Editing Records
 - [General tab](./General-Metadata.md)
   - [General information](./General-Metadata.md#general-information)
     - [Title](./General-Metadata.md#title)

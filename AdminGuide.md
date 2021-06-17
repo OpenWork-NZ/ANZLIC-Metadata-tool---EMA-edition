@@ -11,7 +11,7 @@ This document covers issues that are beyond the role of a basic metadata editor.
 ### _Advanced_ Editor interface
 At several points in the User Guide, the editor is instructed to contact their administrator to advise on use of the "Advanced" editor interface.  ![Interface selector](./images/EditorSelector.png)
 
->NOTE: The **Advanced** editor is structurally identical to the GeoNetwork **Full** save for minor changes to a few widgits. 
+>NOTE: The **Advanced** editor is structurally identical to the GeoNetwork **Full** save for minor changes to a few widgets. 
 
 ![Advanced editor](./images/AdvancedEditor.png)
 

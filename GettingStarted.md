@@ -1,10 +1,12 @@
 # Getting Started 
 
-## Step One - Sign in 
+## Steps
+
+### Step One - Sign in 
 1. Sign in by clicking "Sign in" in the toolbar and entering your credentials. ![Sign in](./images/SignIn.png)
 >NOTE: To edit metadata using the ANZLIC Metadata Tool, you will first need a user account with sufficient permission. If you do not have one, ask your administrator for help
 
-## Step Two - Select a template
+### Step Two - Select a template
 1. Under the **Contribute** option in the top toolbar and select **Add new record.** ![Add new record](./images/AddNew.png)
 1. A new window will appear where you can find and select your starting template record. ![Template select](./images/TemplateSelect.png)
 	1. Templates are stored by the types shown in the left hand column. **Dataset** templates will be shown by default.
@@ -14,7 +16,7 @@
 1. If you have membership in multiple groups, you ca select the appropriate group for this metadata record in the third column.
 1. Clinking the green **Create** button in the forth column will launch your new metadata record in the _ANZLIC Editor_ window.
 
-## Step Three - Edit Metadata Record
+### Step Three - Edit Metadata Record
 Completion of **Step Twp**  opens a new metadata record in the **ICSM** edit view.
 ![ICSM editor](./images/tabGeneral.png)
 To start editing a metadata record, work through the tabs from left to right. Click on the tab name more further guance.
@@ -29,29 +31,29 @@ To start editing a metadata record, work through the tabs from left to right. Cl
 Editing of a metadata recocord is completed in the sidebar **Thumbnails & Distributions** panel.
 See [Thumbnails & Distribution](./Thumbnails-and-Distributions-Metadata.html) for guidance.
 
-## Step Four - Validate and Save 
+### Step Four - Validate and Save 
 1. Click **Save Metadata** in the editor top menu.
 1. Click the **Validate** button
 	1. This checks the metadata record using XSD and Schematron validation
 	1. A set of suggestions to correct any errors appears 
 Follow GeoNetwork guidance
 
-## Step 4a - Assign Category (Optional)
+### Step 4a - Assign Category (Optional)
 1. Click the **Categories** button in the editor top menu.
 1. A list of of categories from which one _Should_ choose that braodly categorises the the resource. 
 >NOTE: This is a GeoNetwork provided list that helps with the management of metadata records. The values are stored separately to the ISO19115-3 metadata record.
 
-## Step 4b - Group (Optional)
+### Step 4b - Group (Optional)
 1. If you wish to assign your metadata to a different group, click **Group** in the editor top menu.
 >NOTE: You can only assign metadata to groups of which you are a member. Talk with your administraor for more help.
 
-## Step 5 - Save and close
+### Step 5 - Save and close
 * Record is not published 
 * Notify your reviewer that the metadata is ready for review.
 	* This process may be automated if GeoNetwork workflow tools are enabled 
 * Your adminstrator or reviewer will do this
 
-### Workflow
+**Workflow**
 To notify your reviewer that the metadata is ready for review and publishing, in the **Metadata view** for a selected record, select **Submit for review. ![Submit for review](./images/EditorMngRecord.png)
 
 >NOTE: You may need first to **Enable workflow** by selecting that option under the same menu. ![Enable workflow](./images/EnableWorkflow.png)
@@ -65,8 +67,8 @@ The reviewers for your group will be notified that your metadata is ready to be 
   1. Select the **Need Help?* button at the bottom a side panel to open a directory of help pages in a new window,
   1. Clicking on most entry tools in the Edirot interface will provide a brief statement about the usage of that entry and a **Help** link to more information.
     >NOTE: **Tooltips** mst be enabled in the **View selector**for this behaviour.
-
-
+    [**GeoNetwork help**](https://geonetwork-opensource.org/manuals/trunk/en/index.html) is available at https://geonetwork-opensource.org/manuals/trunk/en/index.html.
+    [**ICSM Best Practice**](https://geonetwork-opensource.org/manuals/trunk/en/index.html) guide for ISO19115-3 metadata is available at https://geonetwork-opensource.org/manuals/trunk/en/index.html
 
 # Navigating the Editing Window
 ![ANZLIC Editor screenshot](/images/editing-view.png)
@@ -111,7 +113,7 @@ Multiple entry types exist in the editor. These include:
 * **Mutiselector** - to choose a mutilple items from a enumeration or codelist ![multiselect](./images/multiselect.png)
    **Date selector** - to choose dates and times. Appearance may vary depending on your browser. ![Date select](./images/dateselect.png)
 
-###Custom Data Entry
+### Custom Data Entry
 A small number of customised interfaces have been provided. These are managed Help for these tools is available via the help pages.
 * [**Services - Connect point**](./Service-Metadata.html#connect-point) - to add service endpoint parameters
 * [**Contact selection**](./Contacts-Metadata.html#using-the-search-for-contact-tool) - Used in multiple locations to populate party information
@@ -119,7 +121,8 @@ A small number of customised interfaces have been provided. These are managed He
 * [**Reference System selector**](./Spatial-Metadata.html#reference-system) - Used to populated Refernce system metadata from a predefined selection
 * [**Constraints selector**](./Constraints-Metadata.html#using-the-constraints-selection-tool) - Used to select and populate legal and security constraints
 
-### Page navigation aids. Useful for longer more complex metadata and small screens where visibility of all elements is difficult.
+### Page navigation aids. 
+Useful for longer more complex metadata and small screens where visibility of all elements is difficult.
 * ![Toggle](./images/toggle.png) Collapsing and expanding sections is accomplished by clicking the caret at the left of the section name. 
 * ![Double caret](./images/doubleCaret.png) Located in the upper left is a double caret in a blue circle. Clicking this collapses and expands all sections on a page.
 * ![Single caret](images/singleCaret.png) The single caret in the blue circle on the lower left brings you to the top of the page.
