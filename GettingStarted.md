@@ -123,12 +123,12 @@ A small number of customised interfaces have been provided. These are managed He
 * [**Reference System selector**](./Spatial-Metadata.html#reference-system) - Used to populated Refernce system metadata from a predefined selection
 * [**Constraints selector**](./Constraints-Metadata.html#using-the-constraints-selection-tool) - Used to select and populate legal and security constraints
 
-### Page navigation aids. 
+### Page navigation aids
 Useful for longer more complex metadata and small screens where visibility of all elements is difficult.
 * ![Toggle](./images/toggle.png) Collapsing and expanding sections is accomplished by clicking the caret at the left of the section name. 
 * ![Double caret](./images/doubleCaret.png) Located in the upper left is a double caret in a blue circle. Clicking this collapses and expands all sections on a page.
 * ![Single caret](images/singleCaret.png) The single caret in the blue circle on the lower left brings you to the top of the page.
-* ![Hamburger](./images/hamburger.png) Also on the lower left is a hamburger menu button in a blue circle. This exposes or hides the sidebar navigator. This consists of a list of all expandable sections in a page. Clicking a section in this sidebar takes one to that section. ![Navigation sidebar](./images/navMenu.png}
+* ![Hamburger](./images/hamburger.png) Also on the lower left is a hamburger menu button in a blue circle. This exposes or hides the sidebar navigator. This consists of a list of all expandable sections in a page. Clicking a section in this sidebar takes one to that section. ![Navigation sidebar](./images/navMenu.png)
 
 
 
