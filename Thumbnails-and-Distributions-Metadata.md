@@ -17,7 +17,7 @@ Selecting the **Add a distribution** radio button presents a simple interface wi
 * **URL** - This field _Should_ be populated with the web address at which the resource may be obtained. When populated, the green **Add link** button will replace the orange **Add link anyway** button.
 >NOTE: The link is only checked for structure. It does not check if the link resolves to a valid endpoint. 
 * **Resource name** - This field holds the name that the resource is known by at the endpoint provided
-* **Description** - Additional information related to the distribution _Should be entered here.
+* **Description** - Additional information related to the distribution _Should_ be entered here.
 ![Link ready to add](images/LinkDistroValid.png)
 
 Once the **Add Link** is selected, the metadata will be& disstrobutionsappended to include this distribution. The distribution will now also appear in the **Thumbnails & Distributions** panel.
