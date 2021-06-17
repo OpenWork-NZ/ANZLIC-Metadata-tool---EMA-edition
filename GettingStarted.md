@@ -63,7 +63,7 @@ The reviewers for your group will be notified that your metadata is ready to be 
 
 ## Getting Help
 This help document can be accessed in two ways:
-1. Select the **Need Help?* button at the bottom a side panel to open a directory of help pages in a new window,
+1. Select the **Need Help?** button at the bottom a side panel to open a directory of help pages in a new window,
 1. Clicking on most entry tools in the Edirot interface will provide a brief statement about the usage of that entry and a **Help** link to more information.
 >NOTE: **Tooltips** mst be enabled in the **View selector**for this behaviour.
     
