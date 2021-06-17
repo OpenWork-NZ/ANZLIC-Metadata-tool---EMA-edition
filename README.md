@@ -2,7 +2,7 @@
 ## Getting Started
 - [Getting Started](./GettingStarted.md)
   - [Steps by Step editing](./GettingStarted.md#steps)
-  - [Help](GettingStarted.md)#getting-help)
+  - [Help](GettingStarted.md#getting-help)
 - [Navigating the Editor](GettingStarted.md#navigating-the-editing-window)
   - [Tabs](./GettingStarted.md#tabs)
   - [Sidebar](./GettingStarted.md#sidebar)
