@@ -1,10 +1,10 @@
 # User Guide - Creating Metadata
 ## Help contents
-- [Getting Started](./README.md#getting-started---sign-in-and-select-a-template)
-- [Navigating the Editor](README.md#navigating-the-editing-window)
-  - [Tabs](./README.md#tabs)
-  - [Sidebar](./README.md#sidebar)
-  - [Tools and Notation](./README.md#tools-and-notation)
+- [Getting Started](./GettingStarted.md)
+- [Navigating the Editor](GettingStarted.md#navigating-the-editing-window)
+  - [Tabs](./GettingStarted.md#tabs)
+  - [Sidebar](./GettingStarted.md#sidebar)
+  - [Tools and Notation](./GettingStarted.md#tools-and-notation)
 - [General tab](./General-Metadata.md)
   - [General information](./General-Metadata.md#general-information)
     - [Title](./General-Metadata.md#title)
