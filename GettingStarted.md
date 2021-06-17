@@ -69,40 +69,61 @@ The reviewers for your group will be notified that your metadata is ready to be 
 
 
 # Navigating the Editing Window
-1. (insert screenshot)
-1. Describe header buttons (to be used after metadata is complete). Look to GN general help
+![ANZLIC Editor screenshot](/images/editing-view.png)
+
+The ANZLIC editing window can be desrcribed as habing four main components:
+1. Top toolbar
+1. Tabs
+1. Body
+1. Sidebar
+
+The top toolbar buttons are to be used after metadata is complete. These include:
     1. Categories
     1. Group
     1. Validate
     1. Cancel
     1. Save & close
     1. Save metadata
-    1. View selector 
-        1. (insert screenshot)
-        1. Advanced
-        1. XML
-        1. More details (leave unchecked)
-        1. Tooltips (make sure is checked to access inline help)
-1. Main editing window
-  1. Tabs
-  1. Body
-  1. Sidebar
-        
+    1. View selector (eye icon)
+The use of these buttons is described in [**Getting Started**](#getting-started).
 
-## Tools and Notation
-1. Mandatory elements are marked by a red asterisk
-1. Help for specific elements is available by clicking on the element name or field (Tooltips **Must* be enabled)
-1. Adding elements with the "+" button (image)
-1. Deleting individual items - if a red X appears to the right of a line, this element may be deleted by clicking the red X
-    1. Also applies to sections when allowed
-1. Special interfaces
-   1. Described in the inline help 
-   1. insert links
-1. Page navigation aids. Useful for longer more complex metadata and small screens where visibility of all elements is difficult.
-  1. Collapsing and expanding sections is accomplished by clicking the caret at the left of the section name. 
-	   1. Located in the upper left is a double caret in a blue circle. Clicking this collapses and expands all sections on a page.
-	   1. The single caret in the blue circle on the lower left brings you to the top of the page.
-	   1. Also on the lower left is a hamburger menu button in a blue circle. This exposes or hides the sidebar navigator. This consists of a list of all expandable sections in a page. Clicking a section in this sidebar takes one to that section.
+## The View selector
+![View selector](/images/editing-view-options.png)
+* **Advanced** - This veiw is for advanced users familiar with the metadata standard and GeoNetwork. 
+  >NOTE: This view is called _Full_ in standard GeoNetwork installations.
+* **XML** - Also for advanced users familiar enough with the ISO 19115-3 standard to work in raw XML.
+* **More details** - Please leave unchecked. Advanced users may find this helpful.
+* **Tooltips** - This checkbox **Must** be checked to access inline help.
+
+## Tools and Notation 
+###General Guidance
+
+* **Mandatory elements** are marked by a red asterisk ![Mandatory item](./images/mandatory.png)
+* **Adding elements** or sections can be done with the "+" button ![Add](./images/addSection.png)
+* **Deleting items** - if a red X ![Delete](./images/redDelete.png) appears to the right of a line, this element may be deleted by clicking the red X
+    * _Also applies to sections when allowed_
+ ### Edditor Data Entry   
+Multiple entry types exist in the editor. These include:
+* **Text entry** - single line free text entry ![Text entry](./images/textEntry.png)
+* **Text box** - expandable box for multiline text entry. Can be expanded. ![Textbox](./images/textbox.png)
+* **Recomendations text field** - Free text with suggested entry values from codelistv![Recomendations](./images/recValues.png)
+* **Dropdown selector** - to choose a single item from a enumeration or codelist
+* **Mutiselector** - to choose a mutilple items from a enumeration or codelist ![multiselect](./images/multiselect.png)
+   **Date selector** - to choose dates and times. Appearance may vary depending on your browser. ![Date select](./images/dateselect.png)
+
+###Custom Data Entry
+A small number of customised interfaces have been provided. These are managed Help for these tools is available via the help pages.
+* [**Services - Connect point**](./Service-Metadata.html#connect-point) - to add service endpoint parameters
+* [**Contact selection**](./Contacts-Metadata.html#using-the-search-for-contact-tool) - Used in multiple locations to populate party information
+* [**Keyword selector**](./Contacts-Metadata.md#using-the-keyword-thesaurus-tool) - For selecting keywords from controllrd vocabularies
+* [**Reference System selector**](./Spatial-Metadata.html#reference-system) - Used to populated Refernce system metadata from a predefined selection
+* [**Constraints selector**](./Constraints-Metadata.html#using-the-constraints-selection-tool) - Used to select and populate legal and security constraints
+
+### Page navigation aids. Useful for longer more complex metadata and small screens where visibility of all elements is difficult.
+* ![Toggle](./images/toggle.png) Collapsing and expanding sections is accomplished by clicking the caret at the left of the section name. 
+* ![Double caret](./images/doubleCaret.png) Located in the upper left is a double caret in a blue circle. Clicking this collapses and expands all sections on a page.
+* ![Single caret](images/singleCaret.png) The single caret in the blue circle on the lower left brings you to the top of the page.
+* ![Hamburger](./images/hamburger.png) Also on the lower left is a hamburger menu button in a blue circle. This exposes or hides the sidebar navigator. This consists of a list of all expandable sections in a page. Clicking a section in this sidebar takes one to that section. !{Navigation sidebar](./images/navMenu.png}
 
 
 

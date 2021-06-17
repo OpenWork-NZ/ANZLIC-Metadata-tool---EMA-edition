@@ -40,7 +40,7 @@
 - [Lineage Tab](./Linage-Metadata.md)
   - [Resource Lineage](./Linage-Metadata.md#resource-lineage)
 - [Keyword Tab](./Keyword-Metadata.md)
-  - [Using the Keyword Thesaurus tool](./Contacts-Metadata.md#using-the-search-for-contact-tool)
+  - [Using the Keyword Thesaurus tool](./Contacts-Metadata.md#using-the-keyword-thesaurus-tool)
   - [Keywords](./Keyword-Metadata.md#keywords)
 - [Spatial Tab](./Spatial-Metadata.md)
   - [Extents](./Spatial-Metadata.md#extents)
@@ -64,6 +64,8 @@
 ## Administration guide
 - [ANZLIC Metadata Toool Admin Guide](./AdminGuide.md)
   - [Advanced Editing of Metadata](./AdminGuide.md#advanced-editing-of-metadata)
+  - [Publishing Metadata](./AdminGuide.md#publishing-metadata)
+  - [System Management](./AdminGuide.md#system-management) 
 
 ## Getting Started - Sign in and Select a template
 1. To edit metadata using the ANZLIC Metadata Tool, you will first need a user account with sufficient permission. If you do not have one, ask your administrator for help
