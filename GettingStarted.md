@@ -106,14 +106,14 @@ The use of these buttons is described in [**Getting Started**](#getting-started)
 * **Adding elements** or sections can be done with the "+" button ![Add](./images/AddSection.png)
 * **Deleting items** - if a red X ![Delete](./images/redDelete.png) appears to the right of a line, this element may be deleted by clicking the red X
     * _Also applies to sections when allowed_
- ### Edditor Data Entry   
+ ### Editor Data Entry   
 Multiple entry types exist in the editor. These include:
 * **Text entry** - single line free text entry ![Text entry](./images/textEntry.png)
 * **Text box** - expandable box for multiline text entry. Can be expanded. ![Textbox](./images/textbox.png)
 * **Recomendations text field** - Free text with suggested entry values from codelistv![Recomendations](./images/recValues.png)
 * **Dropdown selector** - to choose a single item from a enumeration or codelist
 * **Mutiselector** - to choose a mutilple items from a enumeration or codelist ![multiselect](./images/multiselect.png)
-   **Date selector** - to choose dates and times. Appearance may vary depending on your browser. ![Date select](./images/dateSelect.png)
+* **Date selector** - to choose dates and times. Appearance may vary depending on your browser. ![Date select](./images/dateSelect.png)
 
 ### Custom Data Entry
 A small number of customised interfaces have been provided. These are managed Help for these tools is available via the help pages.
